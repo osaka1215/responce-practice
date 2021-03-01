@@ -534,6 +534,10 @@ body {
   width: 100%;
 }
 
+.mission-content{
+  text-align: center;
+}
+
 .service-content{
   margin: auto;
 }
